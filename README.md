@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi 👋, I'm Mohit Borse  <br><br>🎓 Final-year student | 📊 Aspiring Data Scientist | 💻 Python & Data Science<br> Enthusiast <br> 
+# Hi 👋, I'm Mohit Borse  <br><br>🎓 Final-year student | 📊 Aspiring Data Scientis | 💻 Python & Data Science<br> Enthusiast <br> 
 
 
 ## 🌐 Socials:
